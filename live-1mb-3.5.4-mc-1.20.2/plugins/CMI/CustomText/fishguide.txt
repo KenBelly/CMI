@@ -1,11 +1,11 @@
 <AutoPage>
-This book will act like a 'quick' in-game guide for the basics of 1MB PyroFishing. 
+This book will act like a 'quick' in-game guide for the basics of 1MB Fishing. 
 
 Written by: Nebih
 
 There is also a really good thread that I took inspiration from, you should read it too!
-
 /fish info
+
 <NextPage>
 Quick Command Guide:
 /fish sell (Sell fish)
